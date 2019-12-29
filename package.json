@@ -1,0 +1,28 @@
+{
+  "name": "kemila-docker",
+  "version": "1.0.0",
+  "description": "Animate Kemila Docker text",
+  "main": "index.js",
+  "dependencies": {
+    "text-animation": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep-sanjaya/kemila-docker.git"
+  },
+  "keywords": [
+    "Kemila",
+    "Docker",
+    "Animate"
+  ],
+  "author": "Pradeep Sanjaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeep-sanjaya/kemila-docker/issues"
+  },
+  "homepage": "https://github.com/pradeep-sanjaya/kemila-docker#readme"
+}
